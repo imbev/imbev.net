@@ -1,0 +1,15 @@
+{
+  "names": {
+    "imbev": "npub1ts0nvzapz95xujzfz2f2g8xgpwkwqsacuz5nvvn7za0786x2v9us2fq2gw"
+  },
+  "relays": {
+    "npub1ts0nvzapz95xujzfz2f2g8xgpwkwqsacuz5nvvn7za0786x2v9us2fq2gw": [
+      "wss://relay.primal.net",
+      "wss://relay.damus.io",
+      "wss://ribo.us.nostria.app",
+      "wss://nos.lol",
+      "wss://offchain.pub",
+      "wss://relay.snort.social"
+    ]
+  }
+}
